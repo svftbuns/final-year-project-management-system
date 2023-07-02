@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"Checkers"},{"l":"Enums"},{"l":"IndividualClasses"},{"l":"MasterLists"},{"l":"People"},{"l":"UserInterfaces"}];updateSearchResults();
