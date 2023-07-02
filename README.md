@@ -1,4 +1,4 @@
-# final-year-project-management-system
+# Final-Year-Project Management System
 
 This project is our SC2002 Object Oriented Design and Programming Assignment. We created a Final Year Projects (FYP) Management System which facilitates the creation, registration, de-registration and updates of FYPs. Depending on whether the user is a student, supervisor or FYP Coordinator, a user is only entitled to a specific set of privileges which determines the functions he/she can employ. 
 
